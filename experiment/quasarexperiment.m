@@ -62,3 +62,4 @@ X0                              = {v_gnc*v_gnc'};
 
 [outPGD2_100,Xopt,yopt,Sopt]        = PGDSDP(SDP2.SDP.blk,SDP2.SDP.At,SDP2.SDP.b,SDP2.SDP.C,X0,options);
 infoStride_GNC2                     = get_performance_quasar(Xopt,yopt,Sopt,SDP2.SDP,SDP2.R_gt);
+save('projectdata');
