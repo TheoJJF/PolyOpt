@@ -33,7 +33,7 @@ X0                              = {v_gnc*v_gnc'};
 [outPGD2,Xopt,yopt,Sopt]        = PGDSDP(SDP1.SDP.blk,SDP1.SDP.At,SDP1.SDP.b,SDP1.SDP.C,X0,options);
 infoStride_GNC                  = get_performance_quasar(Xopt,yopt,Sopt,SDP1.SDP,SDP1.R_gt);
 
-% SeDuMi Quasar100 - Time Exceeds 30 mins
+% SeDuMi Quasar100 - Time Unavailable
 [A,b,c,K]                       = SDPT3data_SEDUMIdata(SDP2.SDP.blk,SDP2.SDP.At,SDP2.SDP.C,SDP2.SDP.b);
 
 % MOSEK Quasar100 Experiment
