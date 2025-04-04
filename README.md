@@ -1,6 +1,6 @@
 # Inexact Projected Gradient Descent - Polynomial Optimization
 
-This repository contains all code used in the survey paper _First Order Algorithms for Polynomial Optimization_. 
+This repository contains all code used in the literature review _First Order Algorithms for Polynomial Optimization_. 
 
 ## Abstract
 
