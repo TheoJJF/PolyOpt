@@ -1,4 +1,4 @@
-# Inexact Projected Gradient Descent (iPGM) - Polynomial Optimization
+# Inexact Projected Gradient Descent - Polynomial Optimization
 
 This repository contains all code used in the survey paper _First Order Algorithms for Polynomial Optimization_. 
 
