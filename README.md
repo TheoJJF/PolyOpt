@@ -1,4 +1,4 @@
-# Inexact Projected Gradient Descent - Polynomial Optimization Algorithms
+# Polynomial Optimization Algorithms - Inexact Projected Gradient Methods
 
 This repository contains all code used in the literature review _First Order Algorithms for Polynomial Optimization_. 
 
