@@ -1,4 +1,3 @@
-
 [path,SDP1,SDP2]                = addsolverSDP;
 
 
